@@ -139,7 +139,7 @@
 </div>
 
 <div style="background: #2c3e50; padding: 15px; border-radius: 10px; text-align: center;">
-  💡 <strong>ملاحظة:</strong> فقط حمل وشغل مباشرة! لا يحتاج إلى تثبيت. يعمل على Windows 7/8/10/11.
+  💡 <strong>ملاحظة:</strong> فقط حمل وشغل مباشرة! لا يحتاج إلى تثبيت. يعمل على 
 </div>
 
 ---
@@ -457,7 +457,7 @@ graph LR
 </div>
 
 <div style="background: #2c3e50; padding: 15px; border-radius: 10px; text-align: center;">
-  💡 <strong>Note:</strong> Just download and run! No installation required. Works on Windows 7/8/10/11.
+  💡 <strong>Note:</strong> Just download and run! No installation required. Works on Windows.
 </div>
 
 ---
